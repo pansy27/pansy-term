@@ -31,7 +31,7 @@ conflicts=(
     'urxvt-perls-git'
 )
 source=(
-    http://dist.schmorp.de/$_pkgname/$_pkgname-$pkgver.tar.bz2
+    http://dist.schmorp.de/$_pkgname/Attic/$_pkgname-$pkgver.tar.bz2
     'urxvt.desktop'
     'urxvtc.desktop'
     'resize-font'
